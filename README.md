@@ -6,6 +6,7 @@ Download BoostX = https://github.com/fuzelgora/BoostX/releases
 <hr>
 
 ### ℹ️ About ###
+
 * This file will mainly help you in clean and boost your PC/LAPTOP.
  
 <hr>
