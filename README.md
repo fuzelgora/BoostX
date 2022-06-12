@@ -1,7 +1,7 @@
 # BoostX 
 <hr>
 
-Download BoostX = 
+Download BoostX = https://github.com/fuzelgora/BoostX/releases
 
 <hr>
 
