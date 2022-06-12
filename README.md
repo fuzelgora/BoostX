@@ -15,6 +15,8 @@ Download BoostX = https://github.com/fuzelgora/BoostX/releases
 
 * Download the BootX file and run it as Administrator, it will work on your pc, the file will open Command Prompt and will run two commands. Done you are all set.
 
+<hr>
+
 ### 💻 Compatibility: ###
 
 * Compatible with Windows 7, 8, 8.1, 10, 11
